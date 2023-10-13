@@ -1,0 +1,327 @@
+1	Volume I-Parts 1 to 51
+5	Foreword
+7	List of Sections Affected
+31	1.000 Scope of part.
+41	1.201-1 The two councils.
+43	1.301 Policy.
+45	1.400 Scope of subpart.
+47	1.501-1 Definition.
+49	1.601 General.
+53	1.700 Scope of subpart.
+57	Part 1 - Federal Acquisition Regulations System
+79	2.201 Contract clause.
+83	Part 2 - Definitions of Words and Terms
+91	3.201 Applicability.
+93	3.301 General.
+95	3.400 Scope of subpart.
+97	3.501-1 Definition.
+101	3.601 Policy.
+103	Subpart 3.7 - Voiding and Rescinding Contracts
+107	3.800 Scope of subpart.
+111	3.900 Scope of subpart.
+119	3.1000 Scope of subpart.
+121	3.1100 Scope of subpart.
+127	Part 3 - Improper Business Practices and Personal Conflicts of Interest
+129	4.201 Procedures.
+131	4.300 Scope of subpart.
+133	4.401 [Reserved]
+135	4.500 Scope of subpart.
+137	4.600 Scope of subpart.
+141	4.700 Scope of subpart.
+143	4.800 Scope of subpart.
+149	4.900 Scope of subpart.
+151	4.1000 Scope.
+155	4.1100 Scope.
+157	4.1200 Scope.
+159	4.1300 Scope of subpart.
+161	4.1400 Scope of subpart.
+163	4.1500 [Reserved]
+165	4.1600 Scope of subpart.
+169	4.1700 Scope of subpart.
+171	4.1800 Scope of subpart.
+173	4.1901 Definitions.
+175	4.2001 Definitions.
+179	Part 4 - Administrative Matters
+183	5.201 General.
+189	5.301 General.
+191	5.401 General.
+193	5.501 Definitions.
+195	5.601 Governmentwide database of contracts.
+197	5.701 Scope.
+201	Part 5 - Publicizing Contract Actions
+203	6.200 Scope of subpart.
+205	6.300 Scope of subpart.
+213	6.401 Sealed bidding and competitive proposals.
+215	6.501 Requirement.
+219	Part 6 - Competition Requirements
+229	7.200 Scope of subpart.
+231	7.300 [Reserved]
+233	7.400 Scope of subpart.
+235	7.500 Scope of subpart.
+242	Part 7 - Acquisition Planning
+243	Subpart 8.2 - [Reserved]
+245	Subpart 8.3 - [Reserved]
+247	8.401 Definitions.
+261	8.500 Scope of subpart.
+263	8.601 General.
+267	8.700 Scope of subpart.
+273	8.800 Scope of subpart.
+275	Subpart 8.9 - [Reserved]
+277	Subpart 8.10 - [Reserved]
+279	8.1100 Scope of subpart.
+283	Part 8 - Required Sources of Supplies and Services
+293	9.200 Scope of subpart.
+299	9.301 Definition.
+303	9.400 Scope of subpart.
+315	9.500 Scope of subpart.
+321	9.601 Definition.
+323	9.701 Definition.
+332	Part 9 - Contractor Qualifications
+335	11.201 Identification and availability of specifications.
+337	11.301 Definitions.
+339	11.401 General.
+341	11.500 Scope.
+343	11.600 Scope of subpart.
+345	11.701 Supply contracts.
+347	11.801 Preaward in-use evaluation.
+351	Part 11 - Describing Agency Needs
+353	12.201 General.
+357	12.300 Scope of subpart.
+361	12.401 General.
+363	12.500 Scope of subpart.
+365	12.601 General.
+371	Part 12 - Acquisition of Commercial Items
+377	13.201 General.
+379	13.301 Governmentwide commercial purchase card.
+387	13.401 General.
+389	13.500 General.
+393	Part 13 - Simplified Acquisition Procedures
+395	14.201-1 Uniform contract format.
+405	14.301 Responsiveness of bids.
+407	14.400 Scope of subpart.
+417	14.501 General.
+423	Part 14 - Sealed Bidding
+425	15.200 Scope of subpart.
+433	15.300 Scope of subpart.
+437	15.400 Scope of subpart.
+463	15.501 Definition.
+467	15.600 Scope of subpart.
+473	Part 15 - Contracting by Negotiation
+477	16.201 General.
+483	16.301-1 Description.
+487	16.401 General.
+493	16.500 Scope of subpart.
+503	16.600 Scope.
+505	16.701 Scope.
+511	Part 16 - Types of Contracts
+517	17.200 Scope of subpart.
+521	Subpart 17.3 - [Reserved]
+523	17.401 General.
+525	17.500 Scope of subpart.
+529	17.600 Scope of subpart.
+529	17.601 Definition.
+531	17.700 Scope of subpart.
+535	Part 17 - Special Contracting Methods
+539	18.201 Contingency operation.
+543	Part 18 - Emergency Acquisitions
+543	19.000 Scope of part.
+549	19.201 General policy.
+553	19.301-1 Representation by the offeror.
+565	19.401 General.
+567	19.501 General.
+573	19.601 General.
+577	19.702 Statutory requirements.
+589	19.800 General.
+599	Subpart 19.9 - [Reserved]
+601	Subpart 19.10 - [Reserved]
+603	Subpart 19.11 - [Reserved]
+605	Subpart 19.12 - [Reserved]
+607	19.1301 General.
+611	19.1401 General.
+613	19.1500 General.
+629	Part 19 - Small Business Programs
+633	22.201 General.
+635	22.300 Scope of subpart.
+637	22.400 Scope of subpart.
+653	22.501 Scope of subpart.
+655	22.601 [Reserved]
+657	Subpart 22.7 - [Reserved]
+665	22.901 Policy.
+667	22.1000 Scope of subpart.
+683	22.1101 Applicability.
+685	22.1200 Scope of subpart.
+689	22.1300 Scope of subpart.
+693	22.1400 Scope of subpart.
+695	22.1500 Scope.
+697	22.1600 Scope of subpart.
+699	22.1700 Scope of subpart.
+703	22.1800 Scope.
+705	22.1900 Scope of subpart.
+709	Subpart 22.20 - [Reserved]
+711	22.2100 Scope of subpart.
+719	Part 22 - Application of Labor Laws to Government Acquisitions
+721	23.200 Scope.
+723	23.300 Scope of subpart.
+725	23.400 Scope of subpart.
+729	23.500 Scope of subpart.
+731	23.601 Requirements.
+733	23.700 Scope.
+737	23.800 Scope of subpart.
+739	23.900 Scope.
+741	23.1000 Scope.
+743	23.1101 Purpose.
+747	Part 23 - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace
+749	24.201 Authority.
+751	24.301 Privacy training.
+759	Part 24 - Protection of Privacy and Freedom of Information
+763	25.200 Scope of Subpart.
+765	25.301-1 Scope.
+769	25.400 Scope of subpart.
+775	25.501 General.
+781	25.600 Scope of subpart.
+785	25.700 Scope of subpart.
+789	25.801 General.
+791	25.900 Scope of subpart.
+793	25.1001 Waiver of right to examination of records.
+795	25.1101 Acquisition of supplies.
+799	Part 25 - Foreign Acquisition
+801	26.200 Scope of subpart.
+803	26.300 Scope of subpart.
+805	26.400 Scope of subpart.
+809	Part 26 - Other Socioeconomic Programs
+811	27.200 Scope of subpart.
+815	27.300 Scope of subpart.
+823	27.400 Scope of subpart.
+835	27.501 General.
+839	Part 27 - Patents, Data, and Copyrights
+847	28.200 Scope of subpart.
+855	28.301 Policy.
+861	Part 28 - Bonds and Insurance
+863	29.201 General.
+865	29.300 Scope of subpart.
+867	29.401-1 Indefinite-delivery contracts for leased equipment.
+872	Part 29 - Taxes
+873	30.201-1 CAS applicability.
+877	Subpart 30.3 - CAS Rules and Regulations [Reserved]
+879	Subpart 30.4 - Cost Accounting Standards [Reserved]
+881	Subpart 30.5 - Cost Accounting Standards for Educational Institutions [Reserved]
+883	30.601 Responsibility.
+898	Part 30 - Cost Accounting Standards Administration
+903	31.201-1 Composition of total cost.
+939	31.301 Purpose.
+941	Subpart 31.4 - [Reserved]
+943	Subpart 31.5 - [Reserved]
+945	31.601 Purpose.
+947	31.701 Purpose.
+957	Part 31 - Contract Cost Principles and Procedures
+963	32.200 Scope of subpart.
+969	32.300 Scope of subpart.
+975	32.400 Scope of subpart.
+983	32.500 Scope of subpart.
+993	32.600 Scope of subpart.
+999	32.700 Scope of subpart.
+1001	32.800 Scope of subpart.
+1005	32.900 Scope of subpart.
+1013	32.1000 Scope of subpart.
+1017	32.1100 Scope of subpart.
+1023	Part 32 - Contract Financing
+1029	33.201 Definitions.
+1038	Part 33 Protests, Disputes, and Appeals
+1041	34.201 Policy.
+1055	Part 34 - Major System Acquisition
+1057	36.201 Evaluation of contractor performance.
+1061	36.300 Scope of subpart.
+1063	Subpart 36.4 - [Reserved]
+1065	36.500 Scope of subpart.
+1069	36.600 Scope of subpart.
+1069	36.601-1 Public announcement.
+1075	36.700-1 Standard and optional forms for use in contracting for construction or dismantling, demolition, or removal of improvements.
+1079	Part 36 - Construction and Architect-Engineer Contracts
+1085	37.200 Scope of subpart.
+1087	37.300 Scope of subpart.
+1089	37.400 Scope of subpart.
+1091	37.500 Scope of subpart.
+1093	37.600 Scope of subpart.
+1097	Part 37 - Service Contracting
+1099	38.201 Coordination requirements.
+1103	Part 38 - Federal Supply Schedule Contracting
+1107	39.201 Scope of subpart.
+1115	Part 39 - Acquisition of Information Technology
+1117	41.201 Policy.
+1121	41.301 Requirements.
+1123	41.401 Monthly and annual review.
+1125	41.501 Solicitation provision and contract clauses.
+1127	41.601 Utility services forms.
+1129	41.701 Formats for utility service specifications.
+1130	Part 41 - Acquisition of Utility Services
+1135	42.201 Contract administration responsibilities.
+1137	42.301 General.
+1141	42.401 Subpart 42.4 - Correspondence and Visits
+1	42.500 Scope of subpart.
+1	42.501 General.
+1	42.502 Selecting contracts for postaward orientation.
+1	42.503-1 Postaward conference arrangements.
+1	42.503-2 Postaward conference procedure.
+1	42.503-3 Postaward conference report.
+1	42.503 Postaward conferences.
+1	42.504 Postaward letters.
+1	42.505 Postaward subcontractor conferences.
+1	Subpart 42.5 - Postaward Orientation
+1145	42.601 General.
+1147	42.700 Scope of subpart.
+1155	42.800 Scope of subpart.
+1157	42.900 Scope of subpart.
+1159	Subpart 42.10 - [Reserved]
+1161	42.1101 General.
+1163	42.1200 Scope of subpart.
+1169	42.1301 General.
+1171	Subpart 42.14 - [Reserved]
+1173	42.1500 Scope of subpart.
+1177	42.1601 General.
+1179	42.1701 Procedures.
+1183	Part 42 - Contract Administration and Audit Services
+1185	43.201 General.
+1187	43.301 Use of forms.
+1191	Part 43 - Contract Modifications
+1193	44.201-1 Consent requirements.
+1197	44.301 Objective.
+1201	44.400 Scope of subpart.
+1205	Part 44 - Subcontracting Policies and Procedures
+1209	45.201 Solicitation.
+1211	45.301 Use and rental.
+1213	45.401 Title to Government-furnished property.
+1215	45.501 Prime contractor alternate locations.
+1217	45.600 Scope of subpart.
+1223	Part 45 - Government Property
+1225	46.201 General.
+1227	46.301 Contractor inspection requirements.
+1229	46.402 Government contract quality assurance at source.
+1233	46.501 General.
+1235	46.601 General.
+1237	46.701 [Reserved]
+1241	46.800 Scope of subpart.
+1246	Part 46 - Quality Assurance
+1251	47.200 Scope of subpart.
+1257	47.300 Scope of subpart.
+1275	47.401 Definitions.
+1277	47.500 Scope of subpart.
+1284	Part 47 - Transportation
+1289	48.201 Clauses for supply or service contracts.
+1293	Part 48 - Value Engineering
+1305	49.201 General.
+1309	49.301 General.
+1313	49.401 General.
+1319	49.501 General.
+1323	49.601-1 Electronic notice.
+1339	Part 49 - Termination of Contracts
+1347	50.200 Scope of subpart.
+1353	Part 50 - Extraordinary Contractual Actions and the safety act
+1357	51.200 Scope of subpart.
+1927	Part 51 - Use of Government Sources by Contractors
+1929	Subpart 53.2 - Prescription of Forms
+1937	Subpart 53.3 - Illustration of Forms
+1925	Part 53 - Forms
+1941	Appendix
+1945	PartIII- Preambles Published under the FAR System
+1943	Part III-Preambles Published Under the FAR System
+1947	FAR Correction(s)

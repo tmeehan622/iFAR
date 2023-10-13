@@ -1,0 +1,342 @@
+// !$*UTF8*$!
+{
+	2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5CA5BF6F109A25EF00DBA207 /* PDFKitViewer */;
+		activeTarget = 8D15AC270486D014006FF6A4 /* PDFKitViewer */;
+		addToTargets = (
+			8D15AC270486D014006FF6A4 /* PDFKitViewer */,
+		);
+		breakpoints = (
+			5CA5C177109A821200DBA207 /* MyPDFDocument.m:398 */,
+			5C2B1C69110A5AC400311530 /* MyPDFDocument.m:685 */,
+			5C2B1CD8110A611D00311530 /* MyPDFDocument.m:683 */,
+			5C2B1D09110A626500311530 /* MyPDFDocument.m:669 */,
+			5C2B1D19110A65F000311530 /* MyPDFDocument.m:674 */,
+			5CA0ED5D111DD4590010192C /* MyPDFDocument.m:505 */,
+			5CA0ED6A111DD6F00010192C /* MyPDFDocument.m:487 */,
+			5CA0ED6E111DD9D80010192C /* MyPDFDocument.m:481 */,
+		);
+		codeSenseManager = 5CA5BF8D109A261000DBA207 /* Code sense */;
+		executables = (
+			5CA5BF6F109A25EF00DBA207 /* PDFKitViewer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					701,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 288377282;
+			PBXWorkspaceStateSaveDate = 288377282;
+		};
+		perUserProjectItems = {
+			5C2B1BBE110A4BAD00311530 /* PBXTextBookmark */ = 5C2B1BBE110A4BAD00311530 /* PBXTextBookmark */;
+			5C2B1D58110A68C400311530 /* PBXTextBookmark */ = 5C2B1D58110A68C400311530 /* PBXTextBookmark */;
+			5C774F13112DE2320097ED30 /* PBXTextBookmark */ = 5C774F13112DE2320097ED30 /* PBXTextBookmark */;
+			5CA0F2AC1121C9840010192C /* PBXTextBookmark */ = 5CA0F2AC1121C9840010192C /* PBXTextBookmark */;
+			5CA0F2F41121CC1E0010192C /* PlistBookmark */ = 5CA0F2F41121CC1E0010192C /* PlistBookmark */;
+			5CCC9BBE11304A210089EBAE /* PBXTextBookmark */ = 5CCC9BBE11304A210089EBAE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5CA5BF8C109A261000DBA207 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5C2B1BBE110A4BAD00311530 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5C2B1BBF110A4BAD00311530 /* PDFPage.h */;
+		name = "PDFPage.h: 16";
+		rLen = 22;
+		rLoc = 416;
+		rType = 0;
+		vrLen = 3004;
+		vrLoc = 0;
+	};
+	5C2B1BBF110A4BAD00311530 /* PDFPage.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = PDFPage.h;
+		path = /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/PDFKit.framework/Versions/A/Headers/PDFPage.h;
+		sourceTree = "<absolute>";
+	};
+	5C2B1C69110A5AC400311530 /* MyPDFDocument.m:685 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FE675C1A0659A57E00371E46 /* MyPDFDocument.m */;
+		functionName = "-saveImage:toFile:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 685;
+		modificationTime = 288218444.347885;
+		originalNumberOfMultipleMatches = 0;
+		state = 0;
+	};
+	5C2B1CD8110A611D00311530 /* MyPDFDocument.m:683 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FE675C1A0659A57E00371E46 /* MyPDFDocument.m */;
+		functionName = "-pageImage:ofSize:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 683;
+		modificationTime = 288218444.371457;
+		originalNumberOfMultipleMatches = 0;
+		state = 0;
+	};
+	5C2B1D09110A626500311530 /* MyPDFDocument.m:669 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FE675C1A0659A57E00371E46 /* MyPDFDocument.m */;
+		functionName = "-pageImage:ofSize:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 669;
+		modificationTime = 288218444.3725139;
+		originalNumberOfMultipleMatches = 0;
+		state = 0;
+	};
+	5C2B1D19110A65F000311530 /* MyPDFDocument.m:674 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FE675C1A0659A57E00371E46 /* MyPDFDocument.m */;
+		functionName = "-pageImage:ofSize:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 674;
+		modificationTime = 288218444.439849;
+		originalNumberOfMultipleMatches = 0;
+		state = 0;
+	};
+	5C2B1D58110A68C400311530 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE675C190659A57E00371E46 /* MyPDFDocument.h */;
+		name = "MyPDFDocument.h: 84";
+		rLen = 0;
+		rLoc = 3668;
+		rType = 0;
+		vrLen = 3528;
+		vrLoc = 148;
+	};
+	5C774F13112DE2320097ED30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE675C1A0659A57E00371E46 /* MyPDFDocument.m */;
+		name = "MyPDFDocument.m: 566";
+		rLen = 68;
+		rLoc = 20128;
+		rType = 0;
+		vrLen = 2583;
+		vrLoc = 19733;
+	};
+	5CA0ED5D111DD4590010192C /* MyPDFDocument.m:505 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FE675C1A0659A57E00371E46 /* MyPDFDocument.m */;
+		functionName = "-liftAndSeparate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 505;
+		modificationTime = 288218444.4660689;
+		originalNumberOfMultipleMatches = 0;
+		state = 0;
+	};
+	5CA0ED6A111DD6F00010192C /* MyPDFDocument.m:487 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FE675C1A0659A57E00371E46 /* MyPDFDocument.m */;
+		functionName = "-makeOutlineIndexForHtml:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 487;
+		modificationTime = 288218444.503378;
+		originalNumberOfMultipleMatches = 0;
+		state = 0;
+	};
+	5CA0ED6E111DD9D80010192C /* MyPDFDocument.m:481 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FE675C1A0659A57E00371E46 /* MyPDFDocument.m */;
+		functionName = "-traverseOutlineForHtml:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 481;
+		location = PDFUtil;
+		modificationTime = 288218443.892099;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	5CA0F2AC1121C9840010192C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE650BBC065AC61200602B6F /* AppDelegate.m */;
+		name = "AppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2624;
+		vrLoc = 0;
+	};
+	5CA0F2F41121CC1E0010192C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D15AC360486D014006FF6A4 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = /Users/mashyna/Projects/VisualSoft/PDFUtil/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	5CA5BF6F109A25EF00DBA207 /* PDFKitViewer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PDFKitViewer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	5CA5BF8C109A261000DBA207 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5CA5BF8D109A261000DBA207 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5CA5C177109A821200DBA207 /* MyPDFDocument.m:398 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = FE675C1A0659A57E00371E46 /* MyPDFDocument.m */;
+		functionName = "-traverseOutline:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 398;
+		location = PDFUtil;
+		modificationTime = 288218443.88635;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	5CCC9BBE11304A210089EBAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE675C1A0659A57E00371E46 /* MyPDFDocument.m */;
+		name = "MyPDFDocument.m: 566";
+		rLen = 68;
+		rLoc = 20128;
+		rType = 0;
+		vrLen = 2577;
+		vrLoc = 19733;
+	};
+	8D15AC270486D014006FF6A4 /* PDFKitViewer */ = {
+		activeExec = 0;
+		executables = (
+			5CA5BF6F109A25EF00DBA207 /* PDFKitViewer */,
+		);
+	};
+	FE650BBC065AC61200602B6F /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {879, 1240}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2624}";
+		};
+	};
+	FE675C190659A57E00371E46 /* MyPDFDocument.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {593, 1504}}";
+			sepNavSelRange = "{3671, 0}";
+			sepNavVisRange = "{3197, 479}";
+		};
+	};
+	FE675C1A0659A57E00371E46 /* MyPDFDocument.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2560, 11184}}";
+			sepNavSelRange = "{20128, 68}";
+			sepNavVisRange = "{19733, 2577}";
+		};
+	};
+}
